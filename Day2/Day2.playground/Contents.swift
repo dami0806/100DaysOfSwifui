@@ -51,5 +51,5 @@ print("5*5 = \(5*5)")
 
 let celsius = 25.0
 let fahrenheit = celsius * 9 / 5 + 32
-print("Celsisus: \(celsius)°  Fahrenheit: \(fahrenheit)° ")
+print("Celsisus: \(celsius)°C  Fahrenheit: \(fahrenheit)°F ")
       
